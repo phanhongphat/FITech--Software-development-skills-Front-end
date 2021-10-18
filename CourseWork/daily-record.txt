@@ -1,6 +1,8 @@
-1. You will learn to setup environment for coding
+Introduction to workflow and sass [Part 1].
 
-2. What is sass and how to use it
+	You will learn to setup environment for coding
+
+	What is sass and how to use it
 	Definition: Sass (which stands for 'Syntactically awesome style sheets) is an extension of CSS that enables you to use things like variables, nested rules, inline imports and more. It also helps to keep things organised and allows you to create style sheets faster.
 	Sass is compatible with all versions of CSS. The only requirement for using it is that you must have Ruby installed. Users are also asked to follow the Sass Community Guidelines.
 	
@@ -8,5 +10,12 @@
 	Indented (simply called 'Sass'): Uses .sass file extension and indentation rather than brackets; it is not fully compliant with CSS syntax, but it's quicker to write
 	Note that files can be converted from one syntax to the other using the sass-convert command.
 
-3. What responsive design looks like
+	What responsive design looks like
 	In my opinion, I think when you design or create a page, you need to design it responsive in mobile first, then it make the page easier to design in destop.
+------------------------------------
+Homepage and Core Sass/CSS [Part 2].
+
+	Create the homepage with HTML
+	Create the core Sass/CSS for the project
+	Learn about variables, nesting and more
+	Understand what is the mixins and how to use it.
