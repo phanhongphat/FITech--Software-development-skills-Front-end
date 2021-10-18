@@ -19,3 +19,9 @@ Homepage and Core Sass/CSS [Part 2].
 	Create the core Sass/CSS for the project
 	Learn about variables, nesting and more
 	Understand what is the mixins and how to use it.
+
+------------------------------------
+Rotating Menu Button [Part 3].
+	Create pure CSS menu button
+	Add the JavaScript-code to handle the rotating
+	Learn to use CSS transitions to rotate the button into an X
