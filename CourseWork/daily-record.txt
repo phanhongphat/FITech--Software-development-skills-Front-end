@@ -25,3 +25,10 @@ Rotating Menu Button [Part 3].
 	Create pure CSS menu button
 	Add the JavaScript-code to handle the rotating
 	Learn to use CSS transitions to rotate the button into an X
+
+
+------------------------------------
+Menu Overlay & Responsiveness [Part 4].
+	Create the menu overlay
+	Add media query Sass mixins
+	Learn to add branding and navigation to the site
