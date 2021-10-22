@@ -38,3 +38,10 @@ Page With CSS Grid [Part 5].
 	Create about page using CSS Grid
 	Add grid template areas to map out the layout.
 	Learn to add Sass styling and make the page responsive
+
+------------------------------------
+Work and Contact Pages [Part 6].
+	Learn more about CSS grid
+	Learn how to use Flexbox
+	Learn the properties of both layouts
+
