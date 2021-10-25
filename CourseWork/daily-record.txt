@@ -45,3 +45,8 @@ Work and Contact Pages [Part 6].
 	Learn how to use Flexbox
 	Learn the properties of both layouts
 
+------------------------------------
+Website Deployment [Part 7].
+ 	Learn to deploy your website with GitHub Pages
+
+
