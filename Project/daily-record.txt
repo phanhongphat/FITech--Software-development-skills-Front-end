@@ -1,0 +1,60 @@
+Introduction to workflow and sass [Part 1].
+
+	You will learn to setup environment for coding
+
+	What is sass and how to use it
+	Definition: Sass (which stands for 'Syntactically awesome style sheets) is an extension of CSS that enables you to use things like variables, nested rules, inline imports and more. It also helps to keep things organised and allows you to create style sheets faster.
+	Sass is compatible with all versions of CSS. The only requirement for using it is that you must have Ruby installed. Users are also asked to follow the Sass Community Guidelines.
+	
+	How to use it: SCSS (Sassy CSS): Uses the .scss file extension and is fully compliant with CSS syntax
+	Indented (simply called 'Sass'): Uses .sass file extension and indentation rather than brackets; it is not fully compliant with CSS syntax, but it's quicker to write
+	Note that files can be converted from one syntax to the other using the sass-convert command.
+
+	What responsive design looks like
+	In my opinion, I think when you design or create a page, you need to design it responsive in mobile first, then it make the page easier to design in destop.
+------------------------------------
+Homepage and Core Sass/CSS [Part 2].
+
+	Create the homepage with HTML
+	Create the core Sass/CSS for the project
+	Learn about variables, nesting and more
+	Understand what is the mixins and how to use it.
+
+------------------------------------
+Rotating Menu Button [Part 3].
+	Create pure CSS menu button
+	Add the JavaScript-code to handle the rotating
+	Learn to use CSS transitions to rotate the button into an X
+
+
+------------------------------------
+Menu Overlay & Responsiveness [Part 4].
+	Create the menu overlay
+	Add media query Sass mixins
+	Learn to add branding and navigation to the site
+
+------------------------------------
+Page With CSS Grid [Part 5].
+	Create about page using CSS Grid
+	Add grid template areas to map out the layout.
+	Learn to add Sass styling and make the page responsive
+
+------------------------------------
+Work and Contact Pages [Part 6].
+	Learn more about CSS grid
+	Learn how to use Flexbox
+	Learn the properties of both layouts
+
+------------------------------------
+Website Deployment [Part 7].
+ 	Learn to deploy your website with GitHub Pages
+
+------------------------------------
+About Project
+	I fix and add somethings more about myself.
+	More understand about SASS, CSS grid, Flexbox.
+	Understand more SASS and page responsive.
+	Deploy to netlify.
+
+
+
