@@ -54,7 +54,8 @@ About Project
 	I fix and add somethings more about myself.
 	More understand about SASS, CSS grid, Flexbox.
 	Understand more SASS and page responsive.
-	Deploy to netlify.
+	Deploy to netlify : https://upbeat-poincare-d0eceb.netlify.app
+	Link video in Google Drive: https://drive.google.com/file/d/1ELnn6zS3X2uQebdpnl4ilNOD3XCjTx2j/view?usp=sharing
 
 
 
